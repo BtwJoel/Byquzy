@@ -1,4 +1,4 @@
-<h1 align="center">Hallo! Ich bin Joel | NetException</h1>
+<h1 align="center">Hallo! Ich bin Joel aka. ProzentSatz</h1>
 <h3 align="center">Das ist mein Github Profil</h3>
 
 - 🔭 Zurzeit arbeite ich an [BlockLeben](https://blockleben.com/)
